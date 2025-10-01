@@ -1,0 +1,7 @@
+
+nombre : juan esteban vergara restrepo
+codigo: 2362578
+curso : DS2
+sede : zarzal 
+grupo : 51 
+
