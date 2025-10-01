@@ -1,0 +1,4 @@
+# Ignora archivos de log
+*.log
+# Ignora la carpeta no_respaladar
+no_respaladar/
