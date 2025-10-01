@@ -1,0 +1,10 @@
+Nombre: Jose Fabian Ortiz
+Código: 202369569
+Curso: Desarrollo de Software 2
+Sede: Zarzal
+Grupo: 51
+:wq
+
+
+
+
